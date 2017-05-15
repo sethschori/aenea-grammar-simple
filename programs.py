@@ -1,3 +1,6 @@
+# Original grammar from https://github.com/dwks/aenea-grammar-simple.
+# Tweaked by Seth Schori for my own voice grammar.
+
 # commands for controlling various programs
 
 from aenea import *

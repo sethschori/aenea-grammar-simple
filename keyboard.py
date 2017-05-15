@@ -1,3 +1,6 @@
+# Original grammar from https://github.com/dwks/aenea-grammar-simple.
+# Tweaked by Seth Schori for my own voice grammar.
+
 # Low-level keyboard input module
 #
 # Based on the work done by the creators of the Dictation Toolbox

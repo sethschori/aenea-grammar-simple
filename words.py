@@ -1,3 +1,6 @@
+# Original grammar from https://github.com/dwks/aenea-grammar-simple.
+# Tweaked by Seth Schori for my own voice grammar.
+
 # module for dictating words and basic sentences
 #
 # (based on the multiedit module from dragonfly-modules project)

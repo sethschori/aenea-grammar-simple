@@ -1,3 +1,6 @@
+# Original grammar from https://github.com/dwks/aenea-grammar-simple.
+# Tweaked by Seth Schori for my own voice grammar.
+
 # _all.py: main rule for DWK's grammar
 
 from natlink import setMicState
