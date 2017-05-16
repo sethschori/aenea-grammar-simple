@@ -47,11 +47,11 @@ class ProgramsRule(MappingRule):
         "vim rotate": Key('c-w, r'),
         "vim try that": Key('escape, colon, w, enter, a-tab/5, up, enter'),
         "vim head [<n>]": Key('W:%(n)d'), # beginning of next WORD
-        "vim tail [<n>]": Key('E:%(n)d'), # end of next WORD
+        "vim (tail|tale) [<n>]": Key('E:%(n)d'), # end of next WORD
         "vim hat [<n>]": Key('B:%(n)d'), # previous WORD
-        "vim head [<n>]": Key('w:%(n)d'), # beginning of next word
-        "vim tail [<n>]": Key('e:%(n)d'), # end of next word
-        "vim hat [<n>]": Key('b:%(n)d'), # previous word
+        "vim headwind [<n>]": Key('w:%(n)d'), # beginning of next word
+        "vim tailwind [<n>]": Key('e:%(n)d'), # end of next word
+        "vim hat wind [<n>]": Key('b:%(n)d'), # previous word
 
         'screen': Key('c-a'),
         'screen switch': Key('c-a, c-a'),
